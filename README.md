@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome! I am a first year PhD student at Stanford MS&E. Check out my homepage at (https://lutong-hao.github.io).
 <!--
 **lutong-hao/lutong-hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
